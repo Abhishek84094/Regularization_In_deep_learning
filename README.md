@@ -88,7 +88,7 @@ This lab demonstrates that regularization is an essential technique in deep lear
 
 ## 👨‍🎓 Author
 **Abhishek Kumar**  
-MSc / BCA – Artificial Intelligence & Machine Learning  
+BCA/ MSc – Artificial Intelligence & Machine Learning  
 
 ---
 
